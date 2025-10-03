@@ -3,5 +3,5 @@ layout: project
 title: Lifting Frame Mechanism
 description: 150cm long and 50cm tall, a rigid bar of a fixed length, 3 pin supports of which two need to be mounted on the ground and a linear actuator to lift max weight
 technologies: IPad, My Brain
-image: /assets/images/image_HW5.jpeg
+image: /assets/images/image_HW5.jpg
 ---
