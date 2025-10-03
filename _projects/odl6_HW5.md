@@ -7,3 +7,7 @@ image: /assets/images/image_HW5.jpg
 ---
 
 I designed this mechanism to lift the maximum weight possible in a 150cm by 50cm spade with 3 pin supports, 2 of which are mounted on the ground and lifted by a linear actuator. I chose to use the IMA55-RN05 linear actuator with peak thrust ≈ 23,900 lbf (106 kN) and stroke options up to ~18 in (457 mm). The ground pins are located 120cm apart, and the rigid bar is 50cm long for maximum height availability.
+
+git add .
+git commit -m "<Commit Edit>"
+git push origin main
