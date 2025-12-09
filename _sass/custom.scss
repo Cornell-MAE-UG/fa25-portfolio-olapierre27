@@ -54,7 +54,9 @@ footer {
 }
 
 .container {
-  max-width: 600px;
+  max-width: 900px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .project-item img {
@@ -198,6 +200,30 @@ footer {
 .back-arrow:hover {
   color: #3a3f58; 
   transform: translateX(-4px);
+}
+
+/* Wider margins for project content text and writing */
+main {
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+@media (max-width: 768px) {
+  main {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+}
+
+/* Full-width heading that extends beyond container padding */
+.full-width-heading {
+  display: block;
+  width: 100vw;
+  position: relative;
+  margin-left: 0;
+  padding-left: 0;
+  color: #333;
+  font-weight: bold;
 }
 
 
